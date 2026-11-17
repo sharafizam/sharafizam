@@ -1,42 +1,65 @@
-# Hi, I'm Sharaf Ahamed 👋
+<div align="center">
 
-**Web Developer · Computer Science Student · Cybersecurity Learner**
-📍 Sri Lanka · 🌐 [sharafizam.com](https://sharafizam.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050914,100:1e90ff&height=200&section=header&text=Sharaf%20Ahamed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20Technology&descAlignY=60&descSize=18" alt="Sharaf Ahamed banner" width="100%"/>
 
-I build clean, responsive websites for local businesses and keep learning how systems are built and secured. Building real projects is how I learn best.
+<a href="https://sharafizam.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=620&lines=Web+Developer;Computer+Science+Student;Cybersecurity+Learner;Building+modern+websites+for+local+businesses" alt="Typing animation" />
+</a>
 
-## 🛠 What I work with
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharafizam.com-1e90ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sharafizam.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94755864130)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharafizam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharafizam)
+[![Instagram](https://img.shields.io/badge/Instagram-@sharaf.amd-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharaf.amd/)
 
-## 🚀 Currently
+</div>
 
-- 🎓 Studying HND in Computer Science at Upbright
-- 💻 Building client websites (restaurants, shops, brands, associations)
-- 🔐 Learning networking and cybersecurity fundamentals
-- ⚛️ Growing my React skills
+---
 
-## 📂 Featured work
+## 👨‍💻 About me
 
-| Project | Stack | What it is |
-|---|---|---|
-| [Mr-Crab-Negombo](https://github.com/sharafizam/Mr-Crab-Negombo) | HTML, CSS | Restaurant website |
-| [Aahil-Family-Restaurant](https://github.com/sharafizam/Aahil-Family-Restaurant) | HTML, CSS | Family restaurant website |
-| [LALA-s-KITCHEN](https://github.com/sharafizam/LALA-s-KITCHEN) | HTML, CSS | Food business website |
-| [Munch-Club](https://github.com/sharafizam/Munch-Club) | HTML, CSS | Food brand website |
+I'm a web developer and Computer Science student from Sri Lanka 🇱🇰. I design and build clean, fast, mobile-friendly websites for local businesses, brands and organisations, and I'm building my skills in networking and cybersecurity on the side.
 
-## 📫 Let's connect
+**Build. Learn. Improve. Repeat.**
 
-- 🌐 Portfolio: [sharafizam.com](https://sharafizam.com)
-- 💬 WhatsApp: [+94 75 586 4130](https://wa.me/94755864130)
-- 💼 LinkedIn: [in/sharafizam](https://www.linkedin.com/in/sharafizam)
-- 📸 Instagram: [@sharaf.amd](https://www.instagram.com/sharaf.amd/)
+## 🛠 Tech stack
 
-> Have a website idea for your business? Message me, I'd love to help.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github,vscode&theme=dark" alt="Skills" />
+</div>
+
+## 🚀 What I'm doing now
+
+- 🎓 Studying **HND in Computer Science** at Upbright
+- 💻 Building websites for real clients (shops, brands, associations, schools)
+- ⚛️ Growing my **React** skills
+- 🔐 Learning **networking and cybersecurity** fundamentals
+
+## 🌐 What I can build for you
+
+| | |
+|---|---|
+| 🏢 **Business websites** | Clean, professional sites for shops, showrooms and restaurants |
+| 📱 **Mobile-first design** | Looks great on every phone, tablet and desktop |
+| 💬 **WhatsApp integration** | Customers message you in one tap |
+| ⚡ **Fast and simple** | Lightweight pages that load quickly |
+
+## 📂 Projects
+
+👉 **[See my projects on sharafizam.com](https://sharafizam.com/projects.html)**
+
+## 🧰 Free tools I built
+
+Browser-based tools that run entirely on your device: [QR Code Generator, Password Checker and more](https://sharafizam.com/tools.html).
+
+---
+
+<div align="center">
+
+### 💬 Have a website idea for your business?
+**[Message me on WhatsApp](https://wa.me/94755864130)** · **[Visit my portfolio](https://sharafizam.com)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:050914&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
